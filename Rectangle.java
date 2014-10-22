@@ -5,6 +5,11 @@
    {
       private int height, width;
   
+      public Rectangle (int hig, int wid)
+      {  height = hig;
+         width = wid;
+      }
+      
 		public Rectangle( )
 		{
 			height  = 1;
