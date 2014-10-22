@@ -7,7 +7,7 @@
   
 		public Rectangle( )
 		{
-			height  = 1;
+			height  = 2;
 			width   = 1;
 			
 		}
